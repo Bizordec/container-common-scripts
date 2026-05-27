@@ -1,0 +1,14 @@
+build.sh
+  h_f9c3655c709b8c 121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "280e27096a04a72a932e3a2ea907f3771bb3a275",
+  "prompts": {},
+  "humans": {
+    "h_f9c3655c709b8c": {
+      "author": "Илья Боязитов <ieboyazitov@sberbank.ru>"
+    }
+  }
+}
